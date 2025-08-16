@@ -1,20 +1,20 @@
 ## Hey there, I'm Stephen Nnamdi! 👋
 
-🎓 SAIT Calgary Grad | Software Development Alumni
-🏦 Ex-Software Engineer @ Sterling Bank Plc
-🚀 Technical Co-founder @ PennyFY
+🎓 SAIT Calgary Grad | Software Development Alumni <br />
+🏦 Ex-Software Engineer @ Sterling Bank Plc <br />
+🚀 Technical Co-founder @ PennyFY <br />
 
 ### My Playground 🎯
-💰 FinTech Enthusiast - Building the future of finance, one commit at a time
-📊 Data Wizard - Turning numbers into insights and insights into impact
-🌙 Moonlighting as a startup technical co-founder because sleep is overrated
+💰 FinTech Enthusiast - Building the future of finance, one commit at a time <br />
+📊 Data Wizard - Turning numbers into insights and insights into impact <br />
+🌙 Moonlighting as a startup technical co-founder because sleep is overrated <br />
 
 ### When I'm Not Coding 🎮
-♟️ Chess Master - Strategic thinking on and off the board
-🎌 Anime Aficionado - Recently rediscovered my love for great storytelling
+♟️ Chess Master - Strategic thinking on and off the board <br />
+🎌 Anime Aficionado - Recently rediscovered my love for great storytelling <br />
 
-"Code by day, strategize by night, and always ready for the next big challenge!" ✨
-📫 Let's Connect - Always open to collaborating on exciting projects!
+"Code by day, strategize by night, and always ready for the next big challenge!" ✨ <br />
+📫 Let's Connect - Always open to collaborating on exciting projects! <br />
 
 
 ### 🌐 Socials:
